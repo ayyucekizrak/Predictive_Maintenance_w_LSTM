@@ -5,7 +5,6 @@
 
 📌 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/ayyucekizrak/Predictive_Maintenance_w_LSTM/blob/master/Predictive_Maintenance_of_AircraftMotorHealth_with_LSTM_Method.ipynb) **Google Colab Not Defteri** 
 
-
 📌 [![Open In Jupyter](https://github.com/jupyter/notebook/blob/master/docs/resources/icon_32x32.svg)](https://nbviewer.jupyter.org/github/ayyucekizrak/Predictive_Maintenance_w_LSTM/blob/master/Predictive_Maintenance_of_AircraftMotorHealth_with_LSTM_Method.ipynb) **Jupyter Not Defteri** 
 
 ---
@@ -18,8 +17,8 @@
 
 ---
 
-###  📑 MAKALENİN TAMAMINI OKUMAK İÇİN [BURAYA]() TIKLAYINIZ! (FOR FULL PAPER PLEASE [CLICK HERE!]() )
-
+### 📑 MAKALENİN TAMAMINI OKUMAK İÇİN [BURAYA]() TIKLAYINIZ! 
+### 📑 FOR FULL PAPER PLEASE CLICK [HERE]()!
 
 ---
 
@@ -29,8 +28,6 @@
 
 **Özet**—Otomotiv, uçak ve fabrika otomasyonu gibi özellikle maliyetli motor bakımı gerektiren uygulamalarda öngörücü bakım önemli bir yer almaktadır. Hem iş güvenliği hem de araçlardan sağlanacak verim bakımından motorların bakım periyotlarını önceden kestirmek ve buna göre iş yönetim stratejisi geliştirmek önemlidir. Öngörücü bakım için motorlardan alınan sensör verileri motorun yıpranma süresini ve seviyesini belirlemekte kullanılmaktadır. Çalışmada Uzun-Kısa Süreli Bellek (LSTM) yapısı kullanılarak, uçak motorlarının kalan yaşam ömürlerinin tahmin edilmesi amaçlanmıştır. NASA tarafından sunulmuş olan bir veri kümesi üzerinde LSTM yapısı test edilmiştir ve elde edilen sonuçlar farklı yöntemlerle kıyaslanmıştır. Yapılan uygulamaların sonucunda en yüksek sınıflandırma başarımı %98,876; en düşük ortalama mutlak hata ise 1,343 olarak LSTM ile elde edilmiştir.
 
-
 ![PM Görsel](https://drive.google.com/uc?export=view&id=1j7j9Lb5JexEGhpbmAHYuvFjNpHQPs7rG)
-
 
 ---
