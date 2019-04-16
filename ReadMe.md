@@ -15,6 +15,7 @@
 🏢 **Institutions:** [Bahcesehir University](https://bau.edu.tr/) and [Yildiz Technical University](http://www.yildiz.edu.tr/)
 
 📚 **Publisher:** [International Journal of Informatics Technologies](http://dergipark.gov.tr/gazibtd)
+
 ---
 
 ###  📑 MAKALENİN TAMAMINI OKUMAK İÇİN [BURAYA]() TIKLAYINIZ!
