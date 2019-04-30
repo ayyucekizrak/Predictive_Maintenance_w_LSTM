@@ -17,8 +17,8 @@
 
 ---
 
-### 📑 MAKALENİN TAMAMINI OKUMAK İÇİN [BURAYA]() TIKLAYINIZ! 
-### 📑 FOR FULL PAPER PLEASE CLICK [HERE]()!
+### 📑 MAKALENİN TAMAMINI OKUMAK İÇİN [BURAYA](https://dergipark.org.tr/gazibtd/issue/44915/495730) TIKLAYINIZ! 
+### 📑 FOR FULL PAPER PLEASE CLICK [HERE](https://dergipark.org.tr/gazibtd/issue/44915/495730)!
 
 ---
 
