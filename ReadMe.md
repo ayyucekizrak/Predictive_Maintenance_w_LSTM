@@ -11,7 +11,7 @@
 
 🎓 **Authors:** [Merve Ayyüce KIZRAK](http://www.ayyucekizrak.com/) and [Bülent BOLAT](http://www.yildiz.edu.tr/~bbolat/)
 
-🏢 **Institutions:** [Bahcesehir University](https://bau.edu.tr/) and [Yildiz Technical University](http://www.yildiz.edu.tr/)
+🏢 **Institutions:** [Bahcesehir University](http://akademik.bahcesehir.edu.tr/web/merveayyucekizrak/tr/index.html) and [Yildiz Technical University](http://www.yildiz.edu.tr/)
 
 📚 **Publisher:** [International Journal of Informatics Technologies](http://dergipark.gov.tr/gazibtd)
 
