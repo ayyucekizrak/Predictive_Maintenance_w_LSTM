@@ -3,7 +3,7 @@
 
 ---
 
-📌 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/ayyucekizrak/Predictive_Maintenance_w_LSTM/blob/master/Predictive_Maintenance_of_AircraftMotorHealth_with_LSTM_Method.ipynb) **Google Colab Not Defteri** 
+📌 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/ayyucekizrak/Predictive_Maintenance_of_AircraftMotorHealth_with_LSTM_Method.ipynb) **Google Colab Not Defteri** 
 
 📌 [![Open In Jupyter](https://github.com/jupyter/notebook/blob/master/docs/resources/icon_32x32.svg)](https://nbviewer.jupyter.org/github/ayyucekizrak/Predictive_Maintenance_w_LSTM/blob/master/Predictive_Maintenance_of_AircraftMotorHealth_with_LSTM_Method.ipynb) **Jupyter Not Defteri** 
 
